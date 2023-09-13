@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Carson-Haskell/chucknorris-jokes/static/css/main.e05c44e9.css",
-    "main.js": "/Carson-Haskell/chucknorris-jokes/static/js/main.418e8b0d.js",
-    "static/js/787.e0a94f49.chunk.js": "/Carson-Haskell/chucknorris-jokes/static/js/787.e0a94f49.chunk.js",
-    "index.html": "/Carson-Haskell/chucknorris-jokes/index.html",
-    "main.e05c44e9.css.map": "/Carson-Haskell/chucknorris-jokes/static/css/main.e05c44e9.css.map",
-    "main.418e8b0d.js.map": "/Carson-Haskell/chucknorris-jokes/static/js/main.418e8b0d.js.map",
-    "787.e0a94f49.chunk.js.map": "/Carson-Haskell/chucknorris-jokes/static/js/787.e0a94f49.chunk.js.map"
+    "main.css": "/carson-haskell/chucknorris-jokes/static/css/main.e05c44e9.css",
+    "main.js": "/carson-haskell/chucknorris-jokes/static/js/main.1b3374df.js",
+    "static/js/787.e0a94f49.chunk.js": "/carson-haskell/chucknorris-jokes/static/js/787.e0a94f49.chunk.js",
+    "index.html": "/carson-haskell/chucknorris-jokes/index.html",
+    "main.e05c44e9.css.map": "/carson-haskell/chucknorris-jokes/static/css/main.e05c44e9.css.map",
+    "main.1b3374df.js.map": "/carson-haskell/chucknorris-jokes/static/js/main.1b3374df.js.map",
+    "787.e0a94f49.chunk.js.map": "/carson-haskell/chucknorris-jokes/static/js/787.e0a94f49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e05c44e9.css",
-    "static/js/main.418e8b0d.js"
+    "static/js/main.1b3374df.js"
   ]
 }
