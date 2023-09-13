@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
+nav {
+  width: 100vw;
+  height: 5rem;
+  background-color: #264653;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Black Ops One', cursive;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  font-size: 1.5rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .title {
+    font-size: 1rem;
+  }
+}
