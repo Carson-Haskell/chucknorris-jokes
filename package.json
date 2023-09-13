@@ -1,6 +1,6 @@
 {
   "name": "chucknorris",
-  "homepage": "https://github.com/carson-haskell/chucknorris-jokes",
+  "homepage": "https://carson-haskell.github.oi/chucknorris-jokes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
